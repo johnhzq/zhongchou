@@ -1,0 +1,4 @@
+http://blog.sina.com.cn/s/blog_4c9dc2a10102vhyk.html【主题模型中调节超参数和主题数量】
+https://blog.csdn.net/pipisorry/article/details/42129099【主题模型TopicModel：LDA参数推导、选择及注意事项】
+http://blog.sina.com.cn/s/blog_4c9dc2a10102vm80.html【主题模型及其变种的实现代码汇总】
+https://blog.csdn.net/dream_catcher_10/article/details/50812371【主题模型LDA】
